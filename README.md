@@ -1,6 +1,3 @@
-Got it! I'll create a detailed README that focuses on each task individually, covering the preprocessing steps, models used, and any specific techniques applied for each dataset. Let me draft it up for you:
-
----
 
 # Machine Learning Final Course Project
 
